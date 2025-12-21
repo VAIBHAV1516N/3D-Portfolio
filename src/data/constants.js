@@ -279,8 +279,8 @@ export const projects = [
       "Express Js",
     ],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/VAIBHAV1516N/3D-Portfolio",
+    webapp: "https://vaibhav-portfolio-15.netlify.app/",
   },
   {
     id: 1,
